@@ -1,5 +1,7 @@
 # NHANES
 
+## Link do dashboard: https://app.powerbi.com/links/ij0hEPrIyH?ctid=0269a215-0421-4058-9d3a-a2ebf0bc1137&pbi_source=linkShare
+
 ## Depressão e Hábitos Saudáveis
 
 O transtorno depressivo representa um grande problema de saúde pública e é apontado como uma das principais causas de doenças e debilitações segundo a Organização Mundial da Saúde (OMS). A depressão resulta de uma interação complexa de fatores sociais, psicológicos e biológicos e, embora o acesso a diagnósticos e tratamentos esteja aumentando, muitos ainda não possuem acesso ao controle adequado dos sintomas depressivos.
